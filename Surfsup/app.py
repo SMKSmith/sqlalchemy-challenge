@@ -33,8 +33,8 @@ def home():
         f"<li>/api/v1.0/precipitation</li>"
         f"<li>/api/v1.0/stations</li>"
         f"<li>/api/v1.0/tobs</li>"
-        f"<li>/api/v1.0/<start></li>"
-        f"<li>/api/v1.0/<start>/<end></li>"
+        f"<li>/api/v1.0/2010-01-06</li>"
+        f"<li>/api/v1.0/2010-01-06/2017-08-23</li>"
         f"<li>/about</li>"
         f"</ul>"
     )
